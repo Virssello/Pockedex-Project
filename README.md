@@ -11,7 +11,7 @@
 This project is a website which maps "Pockedex".
 
 ## Vercel
-Demo is available [Click here to check it out!](https://vercel.com/virssello/pockedex-project/4gpd7GDQ2aF2MGroWYwUBvgF5Xcf)
+Demo is available [Click here to check it out!](https://pockedex-project.vercel.app/)
 	
 ## Technologies
 Project is created with:
